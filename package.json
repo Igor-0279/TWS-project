@@ -1,8 +1,8 @@
 {
-  "name": "TWS-project",
+  "name": "tws-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yanachepyk.github.io/TWS-projec",
+  "homepage": "https://Igor-0279.github.io/tws-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /TWS-project/"
